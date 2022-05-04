@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(axirule.gif);
+	list-image-1: url(axibul1.gif);
+	list-image-2: url(axibul2.gif);
+	list-image-3: url(axibul3.gif);
+	nav-banner-image: url(axibanr.gif);
+	navbutton-horiz-normal: url(axihbtn.gif);
+	navbutton-horiz-hovered: url(axihbtn.gif);
+	navbutton-horiz-pushed: url(axihsel.gif);
+	navbutton-vert-normal: url(axivbtn.gif);
+	navbutton-vert-hovered: url(axivbtn.gif);
+	navbutton-vert-pushed: url(axivsel.gif);
+	navbutton-home-normal: url(axihom.gif);
+	navbutton-home-hovered: url(axihom.gif);
+	navbutton-home-pushed: url(axihom.gif);
+	navbutton-next-normal: url(axinxt.gif);
+	navbutton-next-hovered: url(axinxt.gif);
+	navbutton-next-pushed: url(axinxt.gif);
+	navbutton-prev-normal: url(axibck.gif);
+	navbutton-prev-hovered: url(axibck.gif);
+	navbutton-prev-pushed: url(axibck.gif);
+	navbutton-up-normal: url(axiup.gif);
+	navbutton-up-hovered: url(axiup.gif);
+	navbutton-up-pushed: url(axiup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: trebuchet ms, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: bold;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: trebuchet ms, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: trebuchet ms, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: trebuchet ms, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: trebuchet ms, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(axibul1.gif);
+}
+ul ul
+{
+	list-style-image: url(axibul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(axibul3.gif);
+}
